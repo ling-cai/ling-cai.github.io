@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # al-folio
 
 [![build status](https://travis-ci.org/alshedivat/al-folio.svg?branch=master)](https://travis-ci.org/alshedivat/al-folio)
@@ -378,3 +379,7 @@ The theme is available as open source under the terms of the [MIT License](https
 
 Originally, **al-folio** was based on the [\*folio theme](https://github.com/bogoli/-folio) (published by [Lia Bogoev](http://liabogoev.com) and under the MIT license).
 Since then, it got a full re-write of the styles and many additional cool features.
+=======
+# lingcai.github.io
+This is the personal website for Ling Cai.
+>>>>>>> e8762f34bb56df4c43dfd5ed40f03eb11f6b1062
