@@ -1,6 +1,6 @@
----
+<!-- ---
 layout: page
-title: projects
+title: interns and projects 
 permalink: /projects/
 description: A growing collection of your cool projects.
 nav: true
@@ -55,3 +55,4 @@ horizontal: false
   {% endif %}
 
 </div>
+ -->

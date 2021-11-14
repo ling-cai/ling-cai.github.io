@@ -1,24 +1,31 @@
 ---
 layout: about
-title: about
+title: <b>Ling Cai (Open to Work)</b> 
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+# description: 
+  #<a href="https://www.ucsb.edu/">UC Santa Barbara</a> • <a href="mailto:ling.cai.geog@gmail.com<"> ling.cai.geog@gmail.com</a> • <a href="https://www.linkedin.com/in/ling-cai-7a597a194/"> Linkedin</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: ling_cai.png
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>UC Santa Barbara, USA</p>
+
+# <p>CA, USA</p>
+
+#<p>Your City, State 12345</p>
 
 news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+# selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am Ling Cai, a fourth-year PhD student in the <a href="http://stko.geog.ucsb.edu/">Spatial Temporal Knowledge Observatory (STKO) Lab</a>, led by <a href="https://people.geog.ucsb.edu/~jano/">Prof. Krzysztof Janowicz</a>, at <a href="https://www.ucsb.edu/">University of California, Santa Barbara</a>.  Before joining UCSB, I obtained B.S. degree from <a href="https://en.whu.edu.cn/">Wuhan University </a> and my M.S. degree from <a href="https://english.cas.cn/">Chinese Academy of Sciences</a>. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My <b> research interests </b> include Temporal Knowledge Graphs, Qualitative Reasoning and Inference, Points of Interest Recommendation, Geograhical Information Retrieval, Urban Computing, Cognitive Science and Semantic Web. Recently, I am particularly interested in the representation of and the reasoning about knowledge in representation learning. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+By comparing different ways of representing knowledge in symbolic AI (e.g., knowledge graph) and sub-symbolic AI (e.g., graph embedding methods), I am curious what the outcomes of such differences are, and how machines and humans could be mutually beneficial to achive real Artificial Intelligence for knowledge inference and reasoning. 
+
+If you are interested in any related research topics, please <a href="mailto:ling.cai.geog@gmail.com<"> send me an email </a> without hesitation. I am always passionate about brainstorming great ideas and welcome potential collaboration!
+
+***

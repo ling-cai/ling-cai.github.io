@@ -13,3 +13,8 @@ $max-content-width: {{site.max_width}};
   "base",
   "distill"
 ;
+
+
+
+@import "profile";
+@import "_posts";
