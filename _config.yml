@@ -7,11 +7,12 @@ first_name: Ling
 middle_name: 
 last_name: Cai
 email: ling.cai.geog@gmail.com
-description: >
-  10-708 - Probabilistic Graphical Models - Carnegie Mellon University - Spring 2019
+# description: >
+#   10-708 - Probabilistic Graphical Models - Carnegie Mellon University - Spring 2019
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+  
+#Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 #Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 
 icon:  # the emoji used as the favicon
@@ -132,14 +133,14 @@ keep_files:
 
 # Plug-ins
 plugins:
-  - jekyll-archives
+  # - jekyll-archives
   - jekyll-diagrams
   - jekyll-email-protect
   - jekyll-feed
   - jekyll-github-metadata
   - jekyll-paginate-v2
   - jekyll-responsive-image
-  - jekyll/scholar
+# - jekyll/scholar
   - jekyll-sitemap
   - jekyll-target-blank
   - jekyll-twitter-plugin
@@ -159,45 +160,45 @@ github: [metadata]
 # Jekyll Archives
 # -----------------------------------------------------------------------------
 
-jekyll-archives:
-  enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them). 
-  layouts:
-    year: archive-year
-    tag: archive-tag
-    category: archive-category
-  permalinks:
-    year: '/blog/:year/'
-    tag: '/blog/tag/:name/'
-    category: '/blog/category/:name/'
+# jekyll-archives:
+#   enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them). 
+#   layouts:
+#     year: archive-year
+#     tag: archive-tag
+#     category: archive-category
+#   permalinks:
+#     year: '/blog/:year/'
+#     tag: '/blog/tag/:name/'
+#     category: '/blog/category/:name/'
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
 # -----------------------------------------------------------------------------
 
-scholar:
+# scholar:
 
-  last_name: Einstein
-  first_name: [Albert, A.]
+#   last_name: Einstein
+#   first_name: [Albert, A.]
 
-  style: apa
-  locale: en
+#   style: apa
+#   locale: en
 
-  source: /_bibliography/
-  bibliography: papers.bib
-  bibliography_template: bib
-  # Note: if you have latex math in your bibtex, the latex filter
-  # preprocessing may conflict with MathJAX if the latter is enabled.
-  # See https://github.com/alshedivat/al-folio/issues/357.
-  bibtex_filters: [latex, smallcaps, superscript]
+#   source: /_bibliography/
+#   bibliography: papers.bib
+#   bibliography_template: bib
+#   # Note: if you have latex math in your bibtex, the latex filter
+#   # preprocessing may conflict with MathJAX if the latter is enabled.
+#   # See https://github.com/alshedivat/al-folio/issues/357.
+#   bibtex_filters: [latex, smallcaps, superscript]
 
-  replace_strings: true
-  join_strings: true
+#   replace_strings: true
+#   join_strings: true
 
-  details_dir: bibliography
-  details_layout: bibtex.html
-  details_link: Details
+#   details_dir: bibliography
+#   details_layout: bibtex.html
+#   details_link: Details
 
-  query: "@*"
+#   query: "@*"
 
 
 # -----------------------------------------------------------------------------

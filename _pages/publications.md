@@ -9,10 +9,10 @@ nav: true
 
 <div class="publications">
 
-  {% for y in page.years %}
+ <!--  {% for y in page.years %}
     <h2 class="year">{{y}}</h2>
     {% bibliography -f papers -q @*[year={{y}}]* %}
-  {% endfor %}
+  {% endfor %} -->
 
   <ul>
   <li><b>Ling Cai</b>, Krzysztof Janowicz, Rui Zhu, Yan Bo, Gengchen Mai. HyperQuaternionE: A Hyperbolic Embedding Model for Qualitative  Spatial and Temporal Reasoning. (Under Review) </li>
