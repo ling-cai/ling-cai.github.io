@@ -11,7 +11,7 @@ profile:
   address: >
     <p>UC Santa Barbara, USA</p>
 
-<p>CA, USA</p>
+#<p>CA, USA</p>
 
 #<p>San Jose, State 12345</p>
 
